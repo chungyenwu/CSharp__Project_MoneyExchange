@@ -1,0 +1,17 @@
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\obj\Debug\Practice3.Form1.resources
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\obj\Debug\Practice3.Properties.Resources.resources
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\obj\Debug\Practice3.csproj.GenerateResource.Cache
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\bin\Debug\Practice3.exe
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\bin\Debug\Practice3.pdb
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\bin\Debug\nunit.framework.dll
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\obj\Debug\Practice3.exe
+C:\Users\OpenCNC\Documents\Visual Studio 2005\Projects\Practice3\Practice3\obj\Debug\Practice3.pdb
+D:\FreshmanProject\Practice3\Practice3\obj\Debug\ResolveAssemblyReference.cache
+D:\FreshmanProject\Practice3\Practice3\obj\Debug\Practice3.Properties.Resources.resources
+D:\FreshmanProject\Practice3\Practice3\obj\Debug\Practice3.csproj.GenerateResource.Cache
+D:\FreshmanProject\Practice3\Practice3\obj\Debug\Practice3.exe
+D:\FreshmanProject\Practice3\Practice3\bin\Debug\Practice3.exe
+D:\FreshmanProject\Practice3\Practice3\bin\Debug\Practice3.pdb
+D:\FreshmanProject\Practice3\Practice3\bin\Debug\nunit.framework.xml
+D:\FreshmanProject\Practice3\Practice3\obj\Debug\Practice3.pdb
