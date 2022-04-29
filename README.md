@@ -26,7 +26,7 @@ Choose one:
 1. Download Nunit 2.6.4 on https://nunit.org/index.php/?p=download
 2. Add nunit.framework.dll to the project
 3. Using NUnit.Framework on the Unit test file.
-4. Assign the Debug root to the  "bin\nunit.exe".(Or Just Choose the executable file to run the unittest)![image](https://user-images.githubusercontent.com/34390301/165883172-260307c8-9ec2-4f49-92fe-78533f2b4368.png)
+4. Assign the Debug root to the  "bin\nunit.exe". (Or Just Choose the executable file to run the unittest)![image](https://user-images.githubusercontent.com/34390301/165883172-260307c8-9ec2-4f49-92fe-78533f2b4368.png)
 
 5. Compile it and run it.![image](https://user-images.githubusercontent.com/34390301/165883276-f109201a-8e9d-4e68-95af-eba4a3178aa1.png)
 
@@ -37,7 +37,5 @@ Reference：https://docs.nunit.org/2.6.4/writingTests.html
 
 This game is shown below：
 
-![image](https://user-images.githubusercontent.com/34390301/165882250-fe725d06-5087-4202-b52c-0b66e3f589c7.png)
-
-![image](https://user-images.githubusercontent.com/34390301/165882277-1800ea69-731c-469b-85fb-4b699b6f18a2.png)
+![image](https://user-images.githubusercontent.com/34390301/165887831-d226eeca-caf5-4ff2-a4c5-8c488e80b2ee.png)
 
